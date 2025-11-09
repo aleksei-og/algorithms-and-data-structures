@@ -14,15 +14,15 @@
 - **Данные** - работа с JSON, NumPy для численных вычислений
 
 ## Структура проектов
-algorithms/ # Базовые алгоритмы
-big-data-algorithms/ # Алгоритмы для больших данных
-detection-algorithm/ # Алгоритмы детекции
-fastapi-database-api/# API для работы с БД
-json/ # Работа с JSON данными
-matplotlib/ # Визуализация данных
-numpy/ # Численные вычисления
-psycopg2/ # Работа с PostgreSQL
-sorting/ # Алгоритмы сортировки
-strings/ # Алгоритмы работы со строками
-tkinter-pysql/ # GUI приложение с БД
-tkinter/ # Desktop приложения
+- algorithms/ Базовые алгоритмы
+- big-data-algorithms/ Алгоритмы для больших данных
+- detection-algorithm/ Алгоритмы детекции
+- fastapi-database-api/ API для работы с БД
+- json/ Работа с JSON данными
+- matplotlib/ Визуализация данных
+- numpy/ Численные вычисления
+- psycopg2/ Работа с PostgreSQL
+- sorting/ Алгоритмы сортировки
+- strings/ Алгоритмы работы со строками
+- tkinter-pysql/ GUI приложение с БД
+- tkinter/ Desktop приложения
